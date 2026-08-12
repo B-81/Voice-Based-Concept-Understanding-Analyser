@@ -73,7 +73,7 @@ streamlit run app.py
 ## 🌐 Live Demo
 
 **Streamlit App:**
-(https://voice-based-concept-understanding-analyser-gckdscqdzdnrwuaohuy.streamlit.app/)
+https://voice-based-concept-understanding-analyser-bq4nx2atjycduhblqti.streamlit.app/
 
 ---
 
@@ -106,11 +106,7 @@ The application provides:
 ---
 
 ## 👨‍💻 Author
-
-**Vishnu**
-
-AI & Machine Learning Engineering Student
-
+VBCUA Team
 SRM University AP
 
 ---
